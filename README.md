@@ -2,7 +2,7 @@
 
 This is the source code to go along with the blog article  
 
-[Clustering Text with Transformed Document Vectors](http://xplordat.com/2018/11/26/clustering-text-with-transformed-document-vectors/)
+[Clustering Text with Transformed Document Vectors](http://xplordat.com/2018/12/14/want-to-cluster-text-try-custom-word-embeddings/)
 
 ## Dependencies
 
