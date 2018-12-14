@@ -42,19 +42,16 @@ to generate imges like:
 	python ./analyze.py twenty-news
 	python ./processAnalysis.py twenty-news
 
-to generate the box-whisker plot:
-![Transformation of distances](./images/alt.atheism_whiskers_transformed.png "Transformation of distances")
-
-and for the intercluster/intracluster ratio:
-![20-news B/A Ratio](./images/twenty-news-distances-stopped.png "20-news B/A Ratio")
-
-and
-
 	python ./analyze.py acl-imdb
 	python ./processAnalysis.py acl-imdb
 
-for the intercluster/intracluster ratio:
-![Movie-Reviews B/A Ratio](./images/acl-imdb-distances-stopped.png "Moview-Reviews B/A Ratio")
+to generate the box-whisker plot:
+
+![Transformation of distances](./images/dist-sim.jpg "Transformation of distances")
+
+and for the intercluster/intracluster ratio:
+
+![B/A Ratio](./images/b_by_a_ratio.jpg "B/A Ratio")
 
 ### 3. Clustering
 
