@@ -65,8 +65,6 @@ for the intercluster/intracluster ratio:
 
 Processing the results yields images like:
 ![20-news Results](./images/20-news-results.jpg "20-news clustering results")
-
-and
 ![Movie Reviews Results](./images/movie-reviews-results.jpg "Movie reviews clustering results")
 
 
